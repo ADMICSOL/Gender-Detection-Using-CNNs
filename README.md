@@ -6,9 +6,6 @@ This repository contains the code for real-time gender detection using a pre-tra
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Model Training](#model-training)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project demonstrates how to perform real-time gender detection using a pre-trained CNN model. The model classifies faces detected in video frames as either 'Male' or 'Female'.
