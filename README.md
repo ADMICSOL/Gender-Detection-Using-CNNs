@@ -53,24 +53,3 @@ python gender_detection.py
 ```
 3. Press 'q' to quit the application.
 
-## Model Training
-If you want to train your own model:
-
-1. Prepare your dataset in the required format.
-2. Modify the `train_model.py` script to fit your needs.
-3. Run the training script:
-```bash
-python train_model.py
-```
-
-## Contributing
-Contributions to this project are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
