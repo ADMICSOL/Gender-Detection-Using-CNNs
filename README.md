@@ -18,7 +18,7 @@ To set up this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/gender-detection-cnn.git
+git clone https://github.com/ADMICSOL/gender-detection-cnn.git
 cd gender-detection-cnn
 ```
 
